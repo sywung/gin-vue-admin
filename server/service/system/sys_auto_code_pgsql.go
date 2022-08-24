@@ -1,9 +1,9 @@
 package system
 
 import (
-	"github.com/flipped-aurora/gin-vue-admin/server/global"
-	"github.com/flipped-aurora/gin-vue-admin/server/model/system/response"
 	"github.com/pkg/errors"
+	"github.com/sywung/gin-vue-admin/server/global"
+	"github.com/sywung/gin-vue-admin/server/model/system/response"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"

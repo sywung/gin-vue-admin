@@ -2,7 +2,7 @@
 package {{.Package}}
 
 import (
-	"github.com/flipped-aurora/gin-vue-admin/server/global"
+	"github.com/sywung/gin-vue-admin/server/global"
 	{{ if .HasTimer }}"time"{{ end }}
 )
 

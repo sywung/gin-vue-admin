@@ -9,7 +9,7 @@
           <div>
             <el-row>
               <el-col :span="8" :offset="8">
-                <a href="https://github.com/flipped-aurora/gin-vue-admin">
+                <a href="https://github.com/sywung/gin-vue-admin">
                   <img
                     class="org-img dom-center"
                     src="@/assets/logo.png"
@@ -20,7 +20,7 @@
             </el-row>
             <el-row :gutter="10">
               <el-col :span="8">
-                <a href="https://github.com/flipped-aurora/gin-vue-admin">
+                <a href="https://github.com/sywung/gin-vue-admin">
                   <img
                     class="dom-center"
                     src="https://img.shields.io/github/watchers/flipped-aurora/gin-vue-admin.svg?label=Watch"
@@ -29,7 +29,7 @@
                 </a>
               </el-col>
               <el-col :span="8">
-                <a href="https://github.com/flipped-aurora/gin-vue-admin">
+                <a href="https://github.com/sywung/gin-vue-admin">
                   <img
                     class="dom-center"
                     src="https://img.shields.io/github/stars/flipped-aurora/gin-vue-admin.svg?style=social"
@@ -38,7 +38,7 @@
                 </a>
               </el-col>
               <el-col :span="8">
-                <a href="https://github.com/flipped-aurora/gin-vue-admin">
+                <a href="https://github.com/sywung/gin-vue-admin">
                   <img
                     class="dom-center"
                     src="https://img.shields.io/github/forks/flipped-aurora/gin-vue-admin.svg?label=Fork"

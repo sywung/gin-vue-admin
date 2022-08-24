@@ -1,9 +1,9 @@
 package ws
 
 import (
-	"github.com/flipped-aurora/ws/core/biz"
-	"github.com/flipped-aurora/ws/core/data"
 	"github.com/gin-gonic/gin"
+	"github.com/sywung/ws/core/biz"
+	"github.com/sywung/ws/core/data"
 	"go.uber.org/zap"
 	"nhooyr.io/websocket"
 )

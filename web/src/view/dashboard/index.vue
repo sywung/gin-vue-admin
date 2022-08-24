@@ -47,8 +47,8 @@
               <a
                 style="color:#409EFF"
                 target="view_window"
-                href="https://github.com/flipped-aurora/gva-plugins"
-              >https://github.com/flipped-aurora/gva-plugins</a>
+                href="https://github.com/sywung/gva-plugins"
+              >https://github.com/sywung/gva-plugins</a>
             </div>
           </div>
         </div>
